@@ -2,13 +2,16 @@
 VERSION:2.0
 PRODID:-//DemocrAgenda//FR
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DemocrAgenda
+X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-DTEND;TZID=Europe/Brussels:20260527T160000
-UID:69c7cd4a3b2c6
-LOCATION:Liège
-DESCRIPTION: https://www.quefaire.be/La-Thuringe-centre-de-8733307.shtml<br><br><br>---<br>Added to <a href="https://calendar.google.com/calendar/embed?src=hlj5g8kd2u9ui9957qg8gungd0%40group.calendar.google.com" target="_blank"><u>Agenda “Democratie” on line</u></a> on 2026-03-28_1344
-URL;VALUE=URI:https://www.quefaire.be/La-Thuringe-centre-de-8733307.shtml
-SUMMARY:La Thuringe, centre de l’Allemagne, puis sur les traces des Saxe-Cobourg et Goth
-DTSTART;TZID=Europe/Brussels:20260527T140000
+UID:dbbf2dc2-03f5-464e-9735-2c15fb2d7273@uitinvlaanderen.be
+DTSTAMP:20260329T064205Z
+DTSTART:20260618T183000Z
+DTEND:20260618T203000Z
+SUMMARY:STROOM - Festival: Openingsconcert ‘Uw Vlees en Bloed’
+LOCATION:Hangar 43 - Dendermonde
+DESCRIPTION:https://www.uitinvlaanderen.be/agenda/e/stroom-festival-openingsconcert-uw-vlees-en-bloed/dbbf2dc2-03f5-464e-9735-2c15fb2d7273<br><br><br>---<br>Added to <a href="https://calendar.google.com/calendar/embed?src=hlj5g8kd2u9ui9957qg8gungd0%40group.calendar.google.com" target="_blank"><u>Agenda “Democratie” on line</u></a> on 2026-03-29_0642
 END:VEVENT
 END:VCALENDAR
